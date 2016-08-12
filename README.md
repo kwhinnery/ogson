@@ -146,6 +146,7 @@ the original (and this iteration of) OGSON can't do:
 
 * Escape magic character sequences
 * Nest objects beyond one level
+* Represent the values "true", "false", or any parseable `Number` as a `String`
 * Probably lots of other stuff
 
 ## License
