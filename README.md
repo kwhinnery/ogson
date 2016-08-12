@@ -2,7 +2,7 @@
 
 In 2008, I invented a shittier version of [JSON](http://www.json.org/). This module
 is a functional version of the original implementation I created. I've tried
-to faithfully recreate the synatx, bugs and oddities of the format I invented 
+to faithfully recreate the syntax, bugs and oddities of the format I invented 
 back then before, apparently, I knew how to Google things.
 
 ## Usage
