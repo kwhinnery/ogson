@@ -1,0 +1,21 @@
+This is a package.json converted to OGSON
+###
+  Here's the name of the package
+  @@@name!!! => @@@ogson!!!
+
+  We specify the version here
+  @@@version!!! -> @@@1.0.0!!!
+
+  These are npm run scripts - you can run the tests with "npm test"
+  @@@scripts!!! ¯\_(ツ)_/¯ @@@###
+    @@@test!!! @@@node test.js!!!
+  ^^^!!!
+
+  Keywords, yo!
+  @@@keywords!!! @@@[[[
+    * @@@object!!!          Objects!
+    * @@@notation!!!        Notation!
+    * @@@wheel!!!           Wheels!
+    * @@@reinventing!!!     Reinventing!
+  ]]]!!!
+^^^

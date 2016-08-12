@@ -1,0 +1,22 @@
+{
+  "name": "ogson",
+  "version": "0.1.0",
+  "description": "The Original Gangster's Object Notation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/kwhinnery/ogson"
+  },
+  "keywords": [
+    "object",
+    "notation",
+    "wheel",
+    "reinventing"
+  ],
+  "dependencies": {},
+  "author": "Kevin Whinnery",
+  "license": "MIT"
+}
